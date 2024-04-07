@@ -12,6 +12,7 @@ export default {
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
+        tac: ["Tac One", "sans-serif"],
       },
     },
     screens: {
